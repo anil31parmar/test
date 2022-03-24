@@ -1,3 +1,6 @@
 # test
 change in branch 2
-this is main branch line
+this is branch 2 new line
+=======
+this is branch 2 new line
+
